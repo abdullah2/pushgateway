@@ -28,7 +28,7 @@ source for
 [Grafana annotations](http://docs.grafana.org/reference/annotations/), tracking
 something like release events has to happen with some event-logging framework.
 
-remove
+
 ## Run it
 
 Download binary releases for your platform from the
